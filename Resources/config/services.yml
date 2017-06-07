@@ -1,0 +1,6 @@
+services:
+    twin_elements_sortable.render:
+        class: TwinElements\SortableBundle\Twig\Extension\SortableExtension
+        public: false
+        tags:
+          - { name: twig.extension }
