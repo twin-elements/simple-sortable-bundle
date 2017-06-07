@@ -1,0 +1,31 @@
+{
+  "name" : "TwinElements/SortableBundle",
+  "description" : "Symfony 3 Sortable Bundle",
+  "type" : "symfony-bundle",
+  "authors" : [{
+    "name" : "Wladyslas",
+    "email" : "wladyslaw@jellinek.pl"
+  }],
+  "keywords" : [
+    ["ajax sortable", "symfony 3"]
+  ],
+  "license" : [
+    "MIT"
+  ],
+  "require" : {
+    "php": ">=5.3.3",
+    "stof/doctrine-extensions-bundle": "^1.2",
+    "twig/twig": "^1.0||^2.0"
+  },
+  "autoload" : {
+    "psr-0" : {
+      "TwinElements\\SortableBundle" : "src/"
+    }
+  },
+
+  "extra" : {
+    "branch-alias" : {
+      "dev-master" : "1.0-BETA"
+    }
+  }
+}
