@@ -1,5 +1,5 @@
 {
-  "name" : "TwinElements/SortableBundle",
+  "name" : "twin-elements/sortable-bundle",
   "description" : "Symfony 3 Sortable Bundle",
   "type" : "symfony-bundle",
   "authors" : [{
