@@ -7,7 +7,7 @@
     "email" : "wladyslaw@jellinek.pl"
   }],
   "keywords" : [
-    ["ajax sortable", "symfony 3"]
+    "ajax sortable", "symfony 3"
   ],
   "license" : [
     "MIT"
