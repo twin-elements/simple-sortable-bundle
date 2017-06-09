@@ -1,6 +1,6 @@
 <?php
 
-namespace TwinElements\SortablesBundle\DependencyInjection;
+namespace TwinElements\SortableBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;
